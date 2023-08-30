@@ -1,6 +1,6 @@
 # rgb-deinterleave-arm-neon
 
-This project is demonstrates a comparison between a naive C code and a optimized arm-neon C code
+This project is processes rgb values with an optimized arm-neon C code
 
 ## Build instructions
 ``` Docker
